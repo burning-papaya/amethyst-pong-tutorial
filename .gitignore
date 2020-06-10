@@ -2,6 +2,7 @@
 target
 pong.iml
 .idea
+Cargo.lock
 
 # Backup files
 .DS_Store
