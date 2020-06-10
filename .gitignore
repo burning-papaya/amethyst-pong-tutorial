@@ -1,0 +1,11 @@
+# Unwanted files
+target
+pong.iml
+.idea
+
+# Backup files
+.DS_Store
+thumbs.db
+*~
+*.rs.bk
+*.swp
